@@ -2,7 +2,7 @@
   "name": "aluroni",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://yourgithubname.github.io/your-app-name",
+  "homepage": "https://ribeironicolas.github.io/aluroni",
   "dependencies": {
     "@testing-library/jest-dom": "^5.14.1",
     "@testing-library/react": "^13.0.0",
